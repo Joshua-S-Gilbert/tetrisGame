@@ -1,0 +1,8 @@
+Bob,500
+James,400
+Jeffery,300
+Rio,200
+Chris,100
+Lana,90
+Josh,20
+Callam,10
